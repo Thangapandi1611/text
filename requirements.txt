@@ -6,4 +6,3 @@ streamlit
 tensorflow
 transformers
 bert-extractive-summarizer
-os
